@@ -1,2 +1,1 @@
-MY own personal projects from Freecodecamp
-freecodecamp
+My own personal projects from Freecodecamp
